@@ -1,0 +1,86 @@
+{
+  "name": "pbta_thesprawl",
+  "title": "PbtA - The Sprawl - Bruxelles",
+  "description": "",
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.0.0",
+  "compatibleCoreVersion": "1.0.0",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "packs": [
+    {
+      "label": "Directives",
+      "entity": "Item",
+      "name": "directives",
+      "path": "packs/directives.db",
+      "system": "pbta",
+      "package": "world",
+      "absPath": "/volume1/jdr/FoundryVTT/foundrydata/Data/worlds/pbta_thesprawl/packs/directives.db"
+    },
+    {
+      "label": "Actions de base",
+      "entity": "Item",
+      "name": "actions-de-base",
+      "path": "packs/actions-de-base.db",
+      "system": "pbta",
+      "package": "world",
+      "absPath": "/volume1/jdr/FoundryVTT/foundrydata/Data/worlds/pbta_thesprawl/packs/actions-de-base.db"
+    },
+    {
+      "label": "Actions de matrice",
+      "entity": "Item",
+      "name": "actions-de-matrice",
+      "path": "packs/actions-de-matrice.db",
+      "system": "pbta",
+      "package": "world",
+      "absPath": "/volume1/jdr/FoundryVTT/foundrydata/Data/worlds/pbta_thesprawl/packs/actions-de-matrice.db"
+    },
+    {
+      "label": "Actions périphériques",
+      "entity": "Item",
+      "name": "actions-peripheriques",
+      "path": "packs/actions-peripheriques.db",
+      "system": "pbta",
+      "package": "world",
+      "absPath": "/volume1/jdr/FoundryVTT/foundrydata/Data/worlds/pbta_thesprawl/packs/actions-peripheriques.db"
+    },
+    {
+      "label": "Playbooks",
+      "entity": "Item",
+      "name": "playbooks",
+      "path": "packs/playbooks.db",
+      "system": "pbta",
+      "package": "world",
+      "absPath": "/volume1/jdr/FoundryVTT/foundrydata/Data/worlds/pbta_thesprawl/packs/playbooks.db"
+    },
+    {
+      "label": "Actions de playbooks",
+      "entity": "Item",
+      "name": "actions-de-playbooks",
+      "path": "packs/actions-de-playbooks.db",
+      "system": "pbta",
+      "package": "world",
+      "absPath": "/volume1/jdr/FoundryVTT/foundrydata/Data/worlds/pbta_thesprawl/packs/actions-de-playbooks.db"
+    }
+  ],
+  "languages": [],
+  "authors": [],
+  "keywords": [],
+  "socket": false,
+  "url": "",
+  "manifest": "",
+  "download": "",
+  "license": "",
+  "readme": "",
+  "bugs": "",
+  "changelog": "",
+  "background": "worlds/pbta_thesprawl/resources/3D-central-business-district-city-architecture_Z.jpg",
+  "system": "pbta",
+  "coreVersion": "0.7.9",
+  "systemVersion": "beta47-0.1.0",
+  "nextSession": "2021-03-03T20:00:00.000Z",
+  "availability": 0,
+  "unavailable": false,
+  "id": "pbta_thesprawl"
+}
