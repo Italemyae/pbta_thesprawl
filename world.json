@@ -16,7 +16,7 @@
       "path": "packs/directives.db",
       "system": "pbta",
       "package": "world",
-      "absPath": "/volume1/jdr/FoundryVTT/foundrydata/Data/worlds/pbta_thesprawl/packs/directives.db"
+      "absPath": "/worlds/pbta_thesprawl/packs/directives.db"
     },
     {
       "label": "Actions de base",
@@ -25,7 +25,7 @@
       "path": "packs/actions-de-base.db",
       "system": "pbta",
       "package": "world",
-      "absPath": "/volume1/jdr/FoundryVTT/foundrydata/Data/worlds/pbta_thesprawl/packs/actions-de-base.db"
+      "absPath": "/worlds/pbta_thesprawl/packs/actions-de-base.db"
     },
     {
       "label": "Actions de matrice",
@@ -34,7 +34,7 @@
       "path": "packs/actions-de-matrice.db",
       "system": "pbta",
       "package": "world",
-      "absPath": "/volume1/jdr/FoundryVTT/foundrydata/Data/worlds/pbta_thesprawl/packs/actions-de-matrice.db"
+      "absPath": "/worlds/pbta_thesprawl/packs/actions-de-matrice.db"
     },
     {
       "label": "Actions périphériques",
@@ -43,7 +43,7 @@
       "path": "packs/actions-peripheriques.db",
       "system": "pbta",
       "package": "world",
-      "absPath": "/volume1/jdr/FoundryVTT/foundrydata/Data/worlds/pbta_thesprawl/packs/actions-peripheriques.db"
+      "absPath": "/worlds/pbta_thesprawl/packs/actions-peripheriques.db"
     },
     {
       "label": "Playbooks",
@@ -52,7 +52,7 @@
       "path": "packs/playbooks.db",
       "system": "pbta",
       "package": "world",
-      "absPath": "/volume1/jdr/FoundryVTT/foundrydata/Data/worlds/pbta_thesprawl/packs/playbooks.db"
+      "absPath": "/worlds/pbta_thesprawl/packs/playbooks.db"
     },
     {
       "label": "Actions de playbooks",
@@ -61,16 +61,16 @@
       "path": "packs/actions-de-playbooks.db",
       "system": "pbta",
       "package": "world",
-      "absPath": "/volume1/jdr/FoundryVTT/foundrydata/Data/worlds/pbta_thesprawl/packs/actions-de-playbooks.db"
+      "absPath": "/worlds/pbta_thesprawl/packs/actions-de-playbooks.db"
     }
   ],
   "languages": [],
   "authors": [],
   "keywords": [],
   "socket": false,
-  "url": "https://github.com/Italemyae/pbta_thesprawl_world",
-  "manifest": "https://raw.githubusercontent.com/Italemyae/pbta_thesprawl_world/main/world.json",
-  "download": "https://github.com/Italemyae/pbta_thesprawl_world/archive/v0.5.zip",
+  "url": "https://github.com/Italemyae/pbta_thesprawl",
+  "manifest": "https://raw.githubusercontent.com/Italemyae/pbta_thesprawl/main/world.json",
+  "download": "https://github.com/Italemyae/pbta_thesprawl/archive/main.zip",
   "license": "",
   "readme": "",
   "bugs": "",
